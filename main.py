@@ -1,4 +1,4 @@
-#ODk2OTIzNjA3NzkwNDAzNTg0.YWOLNA.PB_02PT1lnDk7dIVWzj8_V1RIq8
+#
 import discord 
 from discord.ext import commands
 
@@ -12,4 +12,4 @@ async def on_ready():
 async def ping(ctx):
   await ctx.send("Pong! :ping_pong:")
 
-client.run("ODk2OTIzNjA3NzkwNDAzNTg0.YWOLNA.PB_02PT1lnDk7dIVWzj8_V1RIq8")
+client.run("YOUR TOKEN")
